@@ -49,4 +49,4 @@ This project is licensed under the [MIT License](LICENSE), which means you're fr
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us at [email@example.com](mailto:email@example.com). We'd love to hear from you!
+If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us at (aryarocks073@gmail.com). We'd love to hear from you!
