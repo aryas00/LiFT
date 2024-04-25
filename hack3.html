@@ -191,8 +191,10 @@
             a.download = 'individual.txt';
             document.body.appendChild(a);
             a.click();
-            window.URL.revokeObjectURL(url);
-            document.body.removeChild(a); // Clean up by removing the temporary link element
+            setTimeout(() => {
+                window.URL.revokeObjectURL(url);
+                document.body.removeChild(a); // Clean up by removing the temporary link element
+            }, 0);
         }
 
         function downloadTasks() {
